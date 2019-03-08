@@ -8,7 +8,7 @@ jobs:
       environment:
         POSTGRES_USER: root
         POSTGRES_DB: circle_test
-    parallelism: 4
+    #parallelism: 4
     steps:
     - checkout
     - run: echo "Hello CircleCI!"
@@ -35,7 +35,7 @@ jobs:
       environment:
         POSTGRES_USER: root
         POSTGRES_DB: circle_test
-    parallelism: 4
+    #parallelism: 4
     steps:
     - checkout
     - run: echo "Hello CircleCI!"
@@ -62,7 +62,7 @@ jobs:
       environment:
         POSTGRES_USER: root
         POSTGRES_DB: circle_test
-    parallelism: 4
+    #parallelism: 4
     steps:
     - checkout
     - run: echo "Hello CircleCI!"
