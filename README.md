@@ -12,7 +12,7 @@ This application uses the following tools:
 
 You can follow along with this project by reading the [documentation](https://circleci.com/docs/2.0/language-java/).
 
-## License
+## License1
 
 Copyright © 2017 CircleCI
 
